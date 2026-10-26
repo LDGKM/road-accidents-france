@@ -1,0 +1,12 @@
+data/raw/
+data/*.duckdb
+__pycache__/
+.ipynb_checkpoints/
+report/*.aux
+report/*.log
+report/*.out
+docs/*.aux
+docs/*.log
+docs/*.out
+docs/*.toc
+docs/

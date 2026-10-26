@@ -1,0 +1,9 @@
+,Haut-Rhin,France (other depts)
+in_town,0.533,0.639
+at_night,0.241,0.265
+on_motorway,0.091,0.098
+with_motorcycle,0.189,0.226
+with_bike_or_escooter,0.167,0.138
+with_pedestrian,0.148,0.164
+fatal,0.072,0.056
+killed_per_accident,0.077,0.059

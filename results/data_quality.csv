@@ -1,0 +1,9 @@
+field,missing_%
+Accident: GPS coordinates,0.0
+Accident: hour,0.0
+Accident: weather,0.01
+Place: speed limit (valid 10-130),2.23
+Person: severity,0.05
+Person: age,1.5
+Person: sex,1.43
+Person: travel mode,0.53

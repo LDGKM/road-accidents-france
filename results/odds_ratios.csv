@@ -1,0 +1,18 @@
+,odds_ratio,ci_low,ci_high,p_value
+E-scooter involved,0.748,0.642,0.872,0.0
+"Rain, snow, fog or wind",0.838,0.8,0.877,0.0
+"Night, street lights on",1.092,1.03,1.158,0.003
+Weekend,1.17,1.129,1.213,0.0
+Dusk or dawn (vs daylight),1.192,1.119,1.27,0.0
+"Single vehicle, no collision",1.205,1.146,1.266,0.0
+Speed limit 110-130,1.233,1.127,1.349,0.0
+Motorcycle involved,1.284,1.23,1.339,0.0
+Speed limit 70 (vs <=50),1.521,1.405,1.647,0.0
+Bicycle or e-bike involved,1.524,1.429,1.626,0.0
+"Night, no street lights",1.747,1.674,1.822,0.0
+Outside built-up area,1.907,1.777,2.047,0.0
+Speed limit 80-90,2.118,1.972,2.275,0.0
+Head-on collision,2.565,2.449,2.686,0.0
+"Fixed obstacle hit (tree, wall...)",2.623,2.528,2.721,0.0
+Heavy vehicle involved,2.989,2.839,3.147,0.0
+Pedestrian involved,3.086,2.925,3.256,0.0

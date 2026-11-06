@@ -58,4 +58,4 @@ python run_all.py          # about 2 minutes, downloads ~200 MB
 * INSEE, *Estimation de la population au 1er janvier 2023*, by department, sex and age.
 * Department and commune boundaries: [france-geojson](https://github.com/gregoiredavid/france-geojson).
 
-Author: Deo Gratias Loutou — [portfolio](https://ldgkm.github.io) · [LinkedIn](https://www.linkedin.com/in/deo-gratias-loutou-545263278)
+Author: Deo Gratias Loutou — [portfolio](https://deogratias-loutou.fr) · [LinkedIn](https://www.linkedin.com/in/deo-gratias-loutou-545263278)

@@ -3,7 +3,7 @@
 An end-to-end data analysis of **309,756 injury accidents** and **18,356 road deaths** recorded by the
 police in metropolitan France between 2019 and 2024, with a focus on Haut-Rhin (Mulhouse, Colmar).
 
-**Read the [report (PDF)](report/report.pdf)** · browse the [notebook](notebooks/road_accidents.ipynb) · SQL in [`sql/`](sql/)
+**Read the [report (PDF)](https://deogratias-loutou.fr/rapports/accidents-route.pdf)** · browse the [notebook](notebooks/road_accidents.ipynb) · SQL in [`sql/`](sql/)
 
 ![Road deaths per million inhabitants](figures/05_map_departments.png)
 
